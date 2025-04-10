@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+.env
+build
+dev.db
+dev.db-journal
