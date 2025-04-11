@@ -4,3 +4,4 @@ package-lock.json
 build
 dev.db
 dev.db-journal
+coverage
